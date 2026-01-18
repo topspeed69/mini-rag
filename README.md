@@ -69,3 +69,7 @@ A simple Retrieval-Augmented Generation (RAG) application built with Next.js, Pi
 - **Retriever**: Pinecone Top-20 (Cosine Similarity).
 - **Reranker**: Cohere Rerank 3 Multilingual (Top-5).
 - **Chunking**: RecursiveCharacterTextSplitter (800 chars, 100 overlap).
+
+  ## Resume and Portfolio
+  - **Resume**: https://drive.google.com/file/d/1laIpa8nPc1Ut6dMhUm49TgZCwoBQcVoH/view?usp=drive_link
+  - **Portfolio**: https://vinaymendole.vercel.app
