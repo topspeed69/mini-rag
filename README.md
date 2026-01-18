@@ -63,7 +63,7 @@ A simple Retrieval-Augmented Generation (RAG) application built with Next.js, Pi
 
 ### Metrics
 - **Success Rate**: 5/5 on test set.
-- **Latency**: ~1-2s for full pipeline (Embed + Retrieve + Rerank + Gen).
+- **Latency**: ~1-7s for full pipeline (Embed + Retrieve + Rerank + Gen).
 
 ## Reranker & Retrieval
 - **Retriever**: Pinecone Top-20 (Cosine Similarity).
